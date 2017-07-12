@@ -8,7 +8,9 @@ var charizardDefense = 78;
 var charizardSpeed = 100;
 var charizardSpecialAttack = 109;
 var charizardSpecialDefense = 85;
+
 console.log(charizardAttack)
+
 var blastoiseHP = 79;
 var blastoiseNum = 9;
 var blastoiseType = "Water";
@@ -19,4 +21,3 @@ var blastoiseDefense = 100;
 var blastoiseSpeed= 78;
 var blastoiseSpecialAttack = 85;
 var blastoiseSpecialDefense = 105;
-
