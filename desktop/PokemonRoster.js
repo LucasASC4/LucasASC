@@ -1,1 +1,0 @@
- var myPokemonRoster = [["Pikachu","Electric","HP: 35","DEF: 40","ATK: 55","Legendary: false"],["Snorlax","Normal","HP: 160","DEF: 110","ATK: 65","Legendary: false"],["Mewtwo","Psychic",106,110,90,true],["Dragonite","Dragon/Flying",91,134,95,true],["Pichu","Electric",20,40,15,false],["Slowking","Psychic/Water",95,75,80,true]]
