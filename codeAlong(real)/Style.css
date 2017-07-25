@@ -1,0 +1,20 @@
+body
+{
+        border: 10px solid black;
+    margin: auto;
+    padding: 5px;
+background-position:center;
+text-align:center;
+} 
+
+.date {
+    font-weight: bold;
+}
+
+p
+{
+    display: inline-block;
+max-width: 800px;
+  -moz-text-size-adjust: 18;
+margin:auto;
+}
