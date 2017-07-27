@@ -1,0 +1,17 @@
+.jumbotron{
+    text-align:center;
+    background: url("http://www.hdwallpaper.nu/wp-content/uploads/2015/08/maxresdefault5.jpg");
+    font-family: bold;
+    color:black;
+}
+.description{
+     font-family: bold;
+     font-size: 20px;
+     color:white;
+}
+body{
+    background:black;
+}
+h1{
+text-align:center;
+}
