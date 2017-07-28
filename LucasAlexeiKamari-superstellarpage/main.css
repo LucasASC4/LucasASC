@@ -3,7 +3,13 @@
 }
 
 
-
+.navbar{
+    opacity:.8;
+    background: black;
+    border: 0;
+   
+}
+ 
 .jumbotron{
     text-align: center;
     background-image: url("http://geekandsundry.com/wp-content/uploads/2015/12/HyperLightDrifter_P002-970x545.png");
@@ -17,7 +23,9 @@
 }
 .container{
     text-align: center;
-    text-shadow: 2px 2px indianred;
+ font-family:bold;
+ text-shadow: 1px 1px salmon;
+ font-size: 20px;
 }
 
 img
@@ -35,5 +43,24 @@ img
     height: 100vh;
     width:100%;
  }
+ .box{
+     width:160px;
+     height:120px;
+     float:left;
+     border:1px solid #fff;
+     overflow:hidden;
+     margin-top:-200px;
+ }
+ .text{
+     text-align:center;
+     margin-top:56px;
+     font-size:200%;
+     font-family:sans-serif;
+     text-transform:uppercase;
+ }
+ @keyframes rubberBand{
+     0% {transform:scale(1);}
+ 30% {transform:scaleX(1.25) scaleY(1.25);}
+ 40%{transform: scaleX(0.75) scaleY(1.25);}
+ 60% {transform: scaleX(1.15)}
 
- 
