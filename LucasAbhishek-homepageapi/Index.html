@@ -2,7 +2,6 @@
 <html lang="en">
 
 <head>
-    
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -44,8 +43,7 @@
     </script>
 </head>
 
-<body>
-    
+<body onload="startTime()">
     <div class="container">
         <div class="row">
             <div class="col-md-3">
@@ -58,12 +56,16 @@
                     Insert greeting based on time and temperature
                 </div>
                 <div class="jumbotron weather" style="margin-top: 25vh;">
-                    Insert image based on current weather
+                    <div class="form-group">
+                        <label for="exampleInputEmail1">Please Enter Your Zip Code</label>
+                        <input class="form-control" placeholder="Zip Code">
+                        <input class="btn submit btn-default" type="submit" value="Submit">
+                    </div>
                 </div>
             </div>
             <div class="col-md-3" style="padding:2%;">
                 <div class="jumbotron time" style="margin-top: 20vh;">
-                    <button>time(placeholder)</button>
+                    <div id="txt"></div>
                 </div>
                 <div class="jumbotron temp" style="margin-top: 20vh;">
                     <button>temp carousel (placeholder)</button>
