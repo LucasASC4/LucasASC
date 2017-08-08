@@ -8,6 +8,5 @@ body{
 }
 .container-fluid{
     background: black;
-    border: 0;
-    
+    border: none;
 }
