@@ -1,0 +1,13 @@
+body{
+
+      background: url("http://cdn.wallpapersafari.com/3/91/rLThdZ.jpg");
+      color: white;
+  }
+.container{
+    color: white;
+}
+.container-fluid{
+    background: black;
+    border: 0;
+    
+}
