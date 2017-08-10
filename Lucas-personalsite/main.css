@@ -1,23 +1,29 @@
 body{
     background-color: #262626;
-background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='80' height='80' viewBox='0 0 80 80'%3E%3Cg fill='%239C92AC' fill-opacity='0.4'%3E%3Cpath fill-rule='evenodd' d='M11 0l5 20H6l5-20zm42 31a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM0 72h40v4H0v-4zm0-8h31v4H0v-4zm20-16h20v4H20v-4zM0 56h40v4H0v-4zm63-25a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm10 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM53 41a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm10 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm10 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-30 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm-28-8a5 5 0 0 0-10 0h10zm10 0a5 5 0 0 1-10 0h10zM56 5a5 5 0 0 0-10 0h10zm10 0a5 5 0 0 1-10 0h10zm-3 46a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm10 0a3 3 0 1 0 0-6 3 3 0 0 0 0 6zM21 0l5 20H16l5-20zm43 64v-4h-4v4h-4v4h4v4h4v-4h4v-4h-4zM36 13h4v4h-4v-4zm4 4h4v4h-4v-4zm-4 4h4v4h-4v-4zm8-8h4v4h-4v-4z'/%3E%3C/g%3E%3C/svg%3E");
+background-image: url("https://1dib1q3k1s3e11a5av3bhlnb-wpengine.netdna-ssl.com/wp-content/uploads/2015/08/Empire-State-Building-NYC.jpg");
+background-size: cover;
 }
 
 .jumbotron{
-    background:url("https://s-media-cache-ak0.pinimg.com/originals/6c/11/e3/6c11e35213adf79ef32bc31f75897f58.gif");
+    background:url("http://31.media.tumblr.com/2c3a72acc53b1a78ef3b6c4986604cd2/tumblr_ni0jt8sKlY1sr6759o1_500.gif");
     color:white;
     text-align:center;
     font-family:bold;
+     opacity: .9; 
+     background-size: cover; 
+     height: 550px;
 }
 .container{
 display: inline-block;
 text-align:center;
+padding: 30px;
 }
 
 h1{
     font-family:bold;
     font-size: 45px;
     color:white;
+    padding: 30px;
 
 }
 h4{
@@ -36,15 +42,15 @@ h5{
 }
 p3{
     font-family:bold;
-    font-size: 15px;
+    font-size: 30px;
     color:white;
+    padding: 30px;
 }
 .navbar{
     font-family:bold;
     -webkit-text-fill-color:white;
-    background-color: #262626;
+    background-color: Black;
     border: 0;
-
-
+    opacity: .6;
 }
 
